@@ -1,0 +1,273 @@
+{
+    "outpute":{
+        "MTN":{
+            "image":"",
+            "description":"",
+            "ussd":[
+                {
+                    "title":"check awuf balance",
+                    "ussd":"*559*14#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"international call balance",
+                    "ussd":"*559*7#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"check data bundle balance",
+                    "ussd":"*131*4#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"buy airtime from bank account",
+                    "ussd":"*904*Amount#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"share airtime from MTN to MTN",
+                    "ussd":"*777*Recipient’s Number*Amount*PIN#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"check airtime bonus balance",
+                    "ussd":"*559*63#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"subscribe to roaming bundle",
+                    "ussd":"*123*4#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"borrow airtime and pay later",
+                    "ussd":"*606#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"check airtime balance",
+                    "ussd":"*559#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"subscribing for data bundle",
+                    "ussd":"*131#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"borrow data and pay later",
+                    "ussd":"*606#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"check the phone number of any MTN SIM card",
+                    "ussd":"*123#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"please call me back for free of charge",
+                    "ussd":"*133#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"upgrade from 3g to 4g",
+                    "ussd":"*131*4#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"have largest awuf data plan in a SIM card",
+                    "ussd":"*449*2#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"transfer data from MTN to MTN",
+                    "ussd":"*131*4#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"NIN linking",
+                    "ussd":"*785*Your NIN#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"know serial number",
+                    "ussd":"*663#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"Self Service Code",
+                    "ussd":"*123#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN Pay As You Go Browsing",
+                    "ussd":"*131*200#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"Opt Out MTN Pay As You Go Browsing",
+                    "ussd":"*131*200#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN 1GB Code on Pulse",
+                    "ussd":"*406*2#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN Check Airtime Balance Code",
+                    "ussd":"*559#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN International Bundles Purchase",
+                    "ussd":"*131*5#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN International Call Balance Code",
+                    "ussd":"*559*7#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN Data Bonus Balance Code",
+                    "ussd":"*559*63#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN Data Bundle Balance Code",
+                    "ussd":"*131*4#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN 2GB Data Plan Code",
+                    "ussd":"*131*106#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN 4GB For 1000 Code",
+                    "ussd":"*131*65#",
+                    "description":"*131*65# and select 3\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN 250MB For 100 Code",
+                    "ussd":"*131*65#",
+                    "description":"*131*65# and select 1\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"Check Eligibility for MTN 4GB For 1000",
+                    "ussd":"*559*65#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN Purchase Data Bundle Code",
+                    "ussd":"*141*2*163#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"Activate MTN Datashare Code",
+                    "ussd":"*141*5#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN 50MB For 100 Naira Code",
+                    "ussd":"*104#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN Activation Code Of 150MB For 300",
+                    "ussd":"*102#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN Activation Code Of 750MB For 500",
+                    "ussd":"*103#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN Activation Code Of 1GB For 1000",
+                    "ussd":"*106#",
+                    "description":"*106#, Get 500MB Bonus\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN Activation Code Of 2.5GB For 2000",
+                    "ussd":"*110#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN Activation Code Of 5GB For 3500",
+                    "ussd":"*107#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"Check MTN Night Browsing Data Balance",
+                    "ussd":"*559*96#",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN Customer Care Number (MTN SIM)",
+                    "ussd":"180",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"MTN Customer Care Number (Other SIM)",
+                    "ussd":"08031000180",
+                    "description":"\n\nAttribute: https://fastknowers.com/list-of-all-mtn-codes-in-nigeria-and-their-uses"
+                },
+                {
+                    "title":"",
+                    "ussd":"",
+                    "description":""
+                }
+            ]
+        },
+        "GLO":{
+            "image":"",
+            "description":"",
+            "ussd":[
+                {
+                    "title":"",
+                    "ussd":"",
+                    "description":""
+                },
+                {
+                    "title":"",
+                    "ussd":"",
+                    "description":""
+                }
+            ]
+        },
+        "AIRTEL":{
+            "image":"",
+            "description":"",
+            "ussd":[
+                {
+                    "title":"",
+                    "ussd":"",
+                    "description":""
+                },
+                {
+                    "title":"",
+                    "ussd":"",
+                    "description":""
+                }
+            ]
+        },
+        "9MOBILE":{
+            "image":"",
+            "description":"",
+            "ussd":[
+                {
+                    "title":"",
+                    "ussd":"",
+                    "description":""
+                },
+                {
+                    "title":"",
+                    "ussd":"",
+                    "description":""
+                }
+            ]
+        }
+    }
+}
