@@ -329,12 +329,12 @@
             },
             {
                 "title": "Modify numbers on Friends & Family list",
-                "ussd": "*101*2**",
+                "ussd": "*101*2*<Old Glo No.>*<New Glo No.>",
                 "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
             },
             {
                 "title": "Delete numbers on Friends & Family list",
-                "ussd": "*101*3*#",
+                "ussd": "*101*3*<Old Glo No.>#",
                 "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
             },
             {
@@ -353,9 +353,14 @@
                 "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
             },
             {
-                "title": "",
-                "ussd": "",
-                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+                "title": "Subscribe to Glo YAKATA",
+                "ussd": "*230#",
+                "description": "\n\nAttribute: https://bestmarket.com.ng/2020/09/list-of-glo-ussd-codes-to-check-account-balance-borrow-and-buy-data-airtime-share-data"
+            },
+            {
+                "title": "cancel Glo data Plan Auto Renewal",
+                "sms": "CANCEL to 127",
+                "description": "\n\nAttribute: https://bestmarket.com.ng/2020/09/list-of-glo-ussd-codes-to-check-account-balance-borrow-and-buy-data-airtime-share-data"
             }
         ]
     },
@@ -633,14 +638,309 @@
         "image": "https://raw.githubusercontent.com/Axxellance/nigeria_mobile_network_ussd_code_json_data/main/imgs/9mobile.png",
         "ussd": [
             {
-                "title": "",
-                "ussd": "",
-                "description": ""
+                "title": "Night/Weekend Plans: 1GB",
+                "ussd": "*229*3*11#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Night/Weekend Plans: 2GB",
+                "ussd": "*229*3*12#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Night/Weekend Plans: 7GB",
+                "ussd": "*229*3*13#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Daily/Weekly Plans: 25MB",
+                "ussd": "*229*3*8#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Daily/Weekly Plans: 100MB",
+                "ussd": "*229*3*1#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Daily/Weekly Plans: 250MB",
+                "ussd": "*229*2*10#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Daily/Weekly Plans: 650MB",
+                "ussd": "*229*3*2#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Daily/Weekly Plans: 1GB (24 hours)",
+                "ussd": "*229*3*2#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Daily/Weekly Plans: 1GB (7 Days)",
+                "ussd": "*229*2*1#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Daily/Weekly Plans: 2GB",
+                "ussd": "*229*3*4#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Daily/Weekly Plans: 7GB",
+                "ussd": "*229*2*2#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Monthly Plans: 500MB",
+                "ussd": "*229*2*12#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Monthly Plans: 1.5GB",
+                "ussd": "*229*2*7#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Monthly Plans: 2GB",
+                "ussd": "*229*2*25#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Monthly Plans: 3GB",
+                "ussd": "*229*2*3#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Monthly Plans: 4.5GB",
+                "ussd": "*229*2*8#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Monthly Plans: 11GB",
+                "ussd": "*229*2*36#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Monthly Plans: 15GB",
+                "ussd": "*229*2*37#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Monthly Plans: 40GB",
+                "ussd": "*229*4*1#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Monthly Plans: 75GB",
+                "ussd": "*229*2*4#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Quarterly/Annual Plans: 75GB",
+                "ussd": "*229*5*1#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Quarterly/Annual Plans: 165GB",
+                "ussd": "*229*5*2#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Quarterly/Annual Plans: 365GB",
+                "ussd": "*229*5*3#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Check Data Balance",
+                "ussd": "*228#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Stop Auto-Renewal of Any Plan",
+                "ussd": "*229*0#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Share Data: Family and Friends",
+                "ussd": "*229*PIN*data size*9mobile number#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Share Data: Multi-Device plan",
+                "ussd": "*215*PIN*1*New Number*New PUK#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Share Data: Family Share",
+                "ussd": "*229*9*PIN*data quota*recipient’s number*3#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Gift Data",
+                "ussd": "*standard data plan code*recipient’s number#",
+                "description": "*standard data plan code*recipient’s number#, e.g., *229*2*7*recipient’s number# for 1.5GB\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Change Transfer PIN",
+                "ussd": "*247*default PIN*New PIN#",
+                "description": "Dial *247*default PIN*New PIN# or *247*old PIN*New PIN#\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Borrow Data",
+                "ussd": "*665#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Check Airtime",
+                "ussd": "*232#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Buy Airtime From Bank: Access Bank",
+                "ussd": "*901#",
+                "description": "Access Bank *901#\nEco Bank *326#\nFCMB *329\nFirst bank *894#\nGtbank *737#\nFidelity Bank *770#\nSterling Bank *822#\nUBA *919#\nUnion Bank *826#\nZenith BANK *966#\nPolaris BANK *833#\nWema Bank *945#\nKeystone Bank *7111#\nUnity Bank *7799#\nJaiz Bank *389*301#</li>\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Share Airtime",
+                "ussd": "*223*PIN*amount*9mobile number#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Call Me Back",
+                "ussd": "*266*1*RECIPIENT NUMBER#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Borrow Airtime",
+                "ussd": "*665#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Verify and Link Your NIN",
+                "ussd": "*200*8#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Check Your NIN Status",
+                "ussd": "*346#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Check your BVN",
+                "ussd": "*565*0#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: MoreFlex Plus",
+                "ussd": "*320#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: MoreFlex",
+                "ussd": "*340*amount#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: MoreLife Complete",
+                "ussd": "*620*1#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: Moretalk",
+                "ussd": "*244*2#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: Talkzone",
+                "ussd": "*244*8#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: Morecliq",
+                "ussd": "*244*1#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: Morebusiness",
+                "ussd": "*246#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: Morebusiness1000",
+                "ussd": "*246*4*24#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: Morebusiness2000",
+                "ussd": "*246*4*21#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: Morebusiness2000 (V)",
+                "ussd": "*246*4*26#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: Morebusiness5000",
+                "ussd": "*246*4*22#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: Morebusiness10000",
+                "ussd": "*246*4*23#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: Morebusiness ComboPak",
+                "ussd": "*246#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: ComboBasic",
+                "ussd": "*246*4*33#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: ComboValue",
+                "ussd": "*246*4*30#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: ComboPremier",
+                "ussd": "*246*4*31#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff Migration: ComboBlack",
+                "ussd": "*246*4*32#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Tariff: Opt-Out From a Tariff/Migration",
+                "ussd": "*344*0#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Check Active Tariff",
+                "ussd": "*200*1*6#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Borrow From Kwik Money",
+                "ussd": "*561#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
+            },
+            {
+                "title": "Open a GTBank Savings account",
+                "ussd": "*737*0#",
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
             },
             {
                 "title": "",
                 "ussd": "",
-                "description": ""
+                "description": "\n\nAttribute: https://answersafrica.com/how-to-check-your-9mobile-number-and-a-guide-all-the-active-ussd-codes.html"
             }
         ]
     }
