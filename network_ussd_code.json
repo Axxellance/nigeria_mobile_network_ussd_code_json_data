@@ -223,14 +223,139 @@
         "image": "https://raw.githubusercontent.com/Axxellance/nigeria_mobile_network_ussd_code_json_data/main/imgs/glo.png",
         "ussd": [
             {
-                "title": "",
-                "ussd": "",
-                "description": ""
+                "title": "Check your Glo mobile number",
+                "ussd": "*1244#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Check Glo bonus data balance",
+                "ussd": "*124*1#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Check Glo bonus data balance (SMS)",
+                "sms": "*INFO to 127",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Glo airtime borrow",
+                "ussd": "*5321#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Glo Balance enquiry",
+                "ussd": "*124#",
+                "description": "There are simple techniques provided by the network provider to check Glo balance. You just need to use the *124# Glo balance check code to know your Glo balance details or number details.\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Glo Package and charging plan",
+                "ussd": "*125*2#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Glo Customer care",
+                "ussd": "121",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Service information",
+                "ussd": "*124*2#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Tariff information",
+                "ussd": "*124*3#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Top up",
+                "ussd": "*134*Phone Number#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Call centre",
+                "ussd": "100 ",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Gift Yakata plus data",
+                "ussd": "*127*27*number#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Glo Voicemail sending",
+                "ussd": "108",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Glo Voicemail receiving",
+                "ussd": "109",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Retrieve the List of Family & Friends Numbers",
+                "ussd": "*101*4#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Glo Yakata",
+                "ussd": "*455#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Family and friends",
+                "ussd": "*125*1#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Number portability",
+                "sms": "PORT to 600",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Buy data plans",
+                "ussd": "*555#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Buy airtime and data",
+                "ussd": "*543#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Add numbers to Friends & Family List",
+                "ussd": "*101*1*Glo Number#",
+                "description": "*101*1*F&F Glo Number#\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Modify numbers on Friends & Family list",
+                "ussd": "*101*2**",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Delete numbers on Friends & Family list",
+                "ussd": "*101*3*#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Know if Your Number is Registered",
+                "ussd": "*400#",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Blackberry Plans",
+                "ussd": "*777# ",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
+            },
+            {
+                "title": "Report SIM-Box fraud",
+                "sms": "Simbox to 419",
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
             },
             {
                 "title": "",
                 "ussd": "",
-                "description": ""
+                "description": "\n\nAttribute: https://www.ussdcode.in/blog/all-airtel-ussd-codes"
             }
         ]
     },
@@ -238,17 +363,17 @@
         "image": "https://raw.githubusercontent.com/Axxellance/nigeria_mobile_network_ussd_code_json_data/main/imgs/airtel.png",
         "ussd": [
             {
-                "title": "Airtel Customer Care Number",
+                "title": "Customer Care Number",
                 "ussd": "121",
                 "description": "\n\nAttribute: https://www.fonearena.com/blog/223290/airtel-ussd-check-balance-4g.html"
             },
             {
-                "title": "Airtel Complaint Number",
+                "title": "Complaint Number",
                 "ussd": "198",
                 "description": "\n\nAttribute: https://www.fonearena.com/blog/223290/airtel-ussd-check-balance-4g.html"
             },
             {
-                "title": "Airtel Balance Check",
+                "title": "Balance Check",
                 "ussd": "*123#",
                 "description": "\n\nAttribute: https://www.fonearena.com/blog/223290/airtel-ussd-check-balance-4g.html"
             },
